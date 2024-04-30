@@ -27,7 +27,7 @@ Explore Blender’s applications in game development. Discuss its integration wi
 ### 🏠 Step 8: Architectural Visualization
 Delve into Blender's use in architectural visualization. Discuss how it aids in creating detailed 3D models, interior and exterior renders, walkthrough animations, and VR experiences for architectural projects.
 
-### 📊 Step 9: Presentation Preparation
+### 📊 Step 9: Presentation Preparation (Task-2 100 Karma Points)
 Compile your research findings into a comprehensive presentation with a minimum of 8 slides. Ensure to include visuals, examples, and case studies to effectively illustrate Blender's use cases and showcase its versatility across various industries.
 
 [Next Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/Level-1/Part-3.md) 📖👣🔜
