@@ -25,6 +25,6 @@ Based on the research findings, provide recommendations for selecting and utiliz
 Create a LinkedIn post to summarize your research findings and recommendations. Include visuals, data, and examples to enhance your presentation and engage your audience effectively.
 
 ---
+[Next Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/Level-1/Part-2.md) 📖👣🔜
 
-Contribute to this project by adding more tools, updating tool information, or refining best practices based on the latest industry trends. Your contributions are invaluable to the gaming community!
-
+[Previous Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/README.md)🔙📚
