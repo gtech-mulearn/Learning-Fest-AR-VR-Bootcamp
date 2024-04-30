@@ -1,7 +1,5 @@
 # Research on Tools Used in the Gaming Industry
 
-Earn 200 Karma Points by contributing to this research!
-
 ## 🎮 Step 1: Identify Key Tools
 
 Explore and compile a comprehensive list of essential tools widely used in the gaming industry. Focus on various game engines, development platforms, design software, and collaboration tools.
