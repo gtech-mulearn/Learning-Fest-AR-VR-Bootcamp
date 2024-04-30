@@ -32,4 +32,4 @@ Compile your research findings into a comprehensive presentation with a minimum 
 
 [Next Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/Level-1/Part-3.md) 📖👣🔜
 
-[Previous Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/Level-1/Part-1.md)🔙📚
+[Previous Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/Level-1/Part1.md)🔙📚
