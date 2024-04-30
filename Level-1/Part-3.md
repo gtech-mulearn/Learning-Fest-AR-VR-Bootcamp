@@ -16,7 +16,7 @@ Refine the model by adding finer details, textures, and intricate features to ma
 ## Step 5: Color and Material Application
 Apply appropriate colors and materials to the model to replicate the visual appearance of the original image. Utilize shaders, textures, and material settings to achieve realistic effects.
 
-## Step 6: Presentation Preparation
+## Step 6: Presentation Preparation (Task-3 200 Karma Points)
 Compile the process of recreating the model into a LinkedIn post with a minimum of 5 slides. Include screenshots, progress shots, and explanations of the modeling techniques used. Here’s an additional resource to understand more complex Blender functions:
 [![Watch more complex Blender functions](https://img.youtube.com/vi/I-wIpLiyi_Y/maxresdefault.jpg)](https://youtu.be/I-wIpLiyi_Y?si=PCCmfVaIFntQoZ-k)
 
