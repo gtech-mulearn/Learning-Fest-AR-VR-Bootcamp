@@ -20,9 +20,10 @@ Compare the tools based on various criteria such as cost, scalability, community
 
 Based on the research findings, provide recommendations for selecting and utilizing tools effectively in the gaming industry. Offer insights into best practices, emerging trends, and potential areas for innovation.
 
-## 📈 Step 6: Prepare Presentation (Task-1 100 Karma Points)
+## 📈 Step 6: Prepare Presentation (Task-1 200 Karma Points)
 
 Create a LinkedIn post to summarize your research findings and recommendations. Include visuals, data, and examples to enhance your presentation and engage your audience effectively.
+Task Submission: After completing this task, share your LinkedIn post URL in the #tiltedu channel on Discord using the hashtag #cl-arvr-blenderbasics to claim your 200 karma points.
 
 ---
 [Next Lesson](https://github.com/gtech-mulearn/Learning-Fest-AR-VR-Bootcamp/blob/main/Level-1/Part-2.md) 📖👣🔜
